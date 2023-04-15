@@ -1,0 +1,7 @@
+Fonction du programme:
+
+mon projet porte sur la réalisation d'un mini-jeu composé de deux personnages,
+dont seulement un est joueur et qui est controlé par l'utilisateur.
+
+le 2eme personnage controlé par la machine, devra se mouvoir sur le plan x,
+et lancer des objets sur le personnage joueur.
